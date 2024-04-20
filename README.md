@@ -1,9 +1,9 @@
 <div align="justify">
   
-**#CashMate: Your Personal Money Assistant.**
+**CashMate: Your Personal Money Assistant.**
 
 
-**CashMate** is a versatile money management app built using Flutter. It offers a range of features to help users track their finances effectively. Let’s dive into the details:
+**CashMate** is a versatile money management project built using Flutter. It offers a range of features to help users track their finances effectively. Let’s dive into the details:
 
 
 **Authentication and User Management**:
@@ -71,7 +71,7 @@ When adding income or expenses, users can include descriptions to provide contex
 
 
 
-In summary, CashMate is a comprehensive money management app that combines security, customization, and insightful features. Whether you’re tracking daily expenses or planning for the future, CashMate has you covered!
+In summary, **CashMate** is a comprehensive money management app that combines security, customization, and insightful features. Whether you’re tracking daily expenses or planning for the future, CashMate has you covered!
 
 </div>
 Some screenshots of the Application: 
