@@ -1,52 +1,83 @@
 <div align="justify">
   
-**CashMate: Your Personal Money Assistant.**
+**#CashMate: Your Personal Money Assistant.**
 
 
 **CashMate** is a versatile money management app built using Flutter. It offers a range of features to help users track their finances effectively. Let’s dive into the details:
 
 
 **Authentication and User Management**:
+
 CashMate integrates with Firebase for seamless user authentication. Users can sign up and log in using their email or social media accounts (Google, Facebook, LinkedIn, and Discord).
+
 Firebase ensures secure authentication and data storage.
 
+
 **Data Storage**:
+
 CashMate utilizes SQLite as its local database. Users can store transaction data, including amount, date, and time.
+
 This local storage ensures offline access and quick retrieval of financial records.
 
+
 **Customization**:
+
 Users can personalize their experience through shared preferences. They can set their preferred currency type, date format, and app language.
+
 CashMate adapts to individual preferences seamlessly.
 
+
 **Expense and Income Tracking**:
+
 The app features various categories for both expenses and income. Users can add transactions with associated dates and times.
+
 Whether it’s a grocery purchase or a salary deposit, CashMate keeps everything organized.
 
+
 **Visual Insights**:
+
 A pie chart analyzer provides visual insights into spending patterns. Users can track expenses and income over different time frames (today, this week, this month, etc.).
+
 The chart helps users identify where their money is going.
 
+
 **Calendar View**:
+
 CashMate includes a calendar section for enhanced transaction visibility. Users can view their financial history date-wise.
+
 This feature simplifies tracking and planning.
 
+
 **Currency and Language Settings**:
+
 Users have the flexibility to change their preferred currency type, app language, and date format.
+
 CashMate adapts to global users’ needs.
 
+
 **Maintenance and Cleanup**:
+
 For housekeeping, CashMate offers options to reset all categories and delete all data.
+
 Users can keep their financial records tidy.
 
+
 **Social Interaction**:
+
 Users can share the app with friends and encourage them to manage their finances effectively.
+
 Additionally, a rate app feature allows users to provide feedback.
 
+
 **Forgot Password**:
+
 In case users forget their password, CashMate provides a forgot password feature for account recovery.
 
+
 **Transaction Descriptions**:
+
 When adding income or expenses, users can include descriptions to provide context for each transaction.
+
 
 
 In summary, CashMate is a comprehensive money management app that combines security, customization, and insightful features. Whether you’re tracking daily expenses or planning for the future, CashMate has you covered!
