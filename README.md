@@ -9,21 +9,18 @@
 **Authentication and User Management**:
 
 CashMate integrates with Firebase for seamless user authentication. Users can sign up and log in using their email or social media accounts (Google, Facebook, LinkedIn, and Discord).
-
 Firebase ensures secure authentication and data storage.
 
 
 **Data Storage**:
 
 CashMate utilizes SQLite as its local database. Users can store transaction data, including amount, date, and time.
-
 This local storage ensures offline access and quick retrieval of financial records.
 
 
 **Customization**:
 
 Users can personalize their experience through shared preferences. They can set their preferred currency type, date format, and app language.
-
 CashMate adapts to individual preferences seamlessly.
 
 
