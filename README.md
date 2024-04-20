@@ -56,7 +56,7 @@ Users can keep their financial records tidy.
 
 **Social Interaction**:
 
-Users can share the app with friends and encourage them to manage their finances effectively.
+Users can share the app with friends and encourage them to manage their finances effectively, also the project is MIT lincensed.
 Additionally, a rate app feature allows users to provide feedback.
 
 
