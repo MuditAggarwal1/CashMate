@@ -69,6 +69,11 @@ In case users forget their password, CashMate provides a forgot password feature
 
 When adding income or expenses, users can include descriptions to provide context for each transaction.
 
+**Transaction Deletion**:
+
+Users have the ability to delete any transaction they’ve recorded. Whether it’s an incorrect entry or a duplicate, CashMate allows users to remove unwanted records.
+This feature ensures data accuracy and keeps the transaction history clean.
+
 
 
 In summary, **CashMate** is a comprehensive money management app that combines security, customization, and insightful features. Whether you’re tracking daily expenses or planning for the future, CashMate has you covered!
