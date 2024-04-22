@@ -144,9 +144,10 @@ Some screenshots of the Application:
 
  
  </p>
- APP APK LINK  (https://drive.google.com/file/d/1hseSQ0lszpN-kqgFnsOdistNthQy1EXd/view?usp=drive_link)
  
- APP VIDEO LINK (https://drive.google.com/file/d/1FdGChvytEWu6XuvTAx6Px8uGDDsmH7AX/view?usp=drive_link)
+ APP APK LINK  (https://drive.google.com/file/d/1MdLkxnyaCCI61rcj-CKnLo1C41y_uR-D/view?usp=drive_link)
+ 
+ APP VIDEO LINK (https://drive.google.com/file/d/1n62udJt6LILXbItxTYIIbHpHjGm2nqUS/view?usp=drive_link)
 
  
 # CASHMATE
