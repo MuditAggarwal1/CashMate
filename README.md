@@ -116,12 +116,16 @@ Some screenshots of the Application:
  </table>
  <table>
   <tr>
-    <td>About Screen</td>
-     <td>App Logo</td>
+    <td>Time Setting Screen</td>
+    <td>Add Expense Category Screen</td>
+    <td>Add Income Category Screen</td>
+    <td>Icons Selection Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/2f95a22d-0745-428d-9b24-f94358fa2a1a" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/5a7f1a26-a2c4-4402-bf6d-4e8882c0704f" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/328e00ed-e761-4b12-8bd4-e9a2a663de6c" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/b6eee97d-bb50-48db-9fcd-412e5dd46ae9" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/16b5e06a-4c65-48a3-a08d-d08ab55c1da1" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/97b083a7-47ed-4ed7-ac7b-d1af0752b2fb" width="220"></td>
   </tr>
  </table>
  </p>
