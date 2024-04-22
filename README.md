@@ -88,28 +88,28 @@ Some screenshots of the Application:
 <table>
   <tr>
     <td>App Logo</td>
-    <td>Register Screen</td>
     <td>Login Screen</td>
-    <td>Password Recover Screen</td>
+    <td>Income Adding Screen</td>
+    <td>Expense Category Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/a42387ec-b1ae-46bc-b6b6-296df691b2d2" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/b73c209f-845b-444b-b59c-54a07920d3b5" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/e9d11a81-3d91-41a3-a8a2-4139b391cca0" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/80225dd8-4317-4fc8-9295-84132222c783" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/20116329-85c2-4ae6-a093-5df3b70c5d47" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d5281e6d-acc6-4f5e-83b2-cda6735441cd" width="220"></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>Income Adding Screen</td>
-    <td>Expense Adding Screen</td>
     <td>Income Category Screen</td>
+    <td>Expense Category Screen</td>
+    <td>Time Setting Screen</td>
     <td>Expense Category Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/c6e8edc5-5300-4f25-a566-d3251aa0c975" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/40d0e9ad-ca74-4fb8-afe7-0473d15020c2" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/20116329-85c2-4ae6-a093-5df3b70c5d47" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d5281e6d-acc6-4f5e-83b2-cda6735441cd" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/328e00ed-e761-4b12-8bd4-e9a2a663de6c" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d5281e6d-acc6-4f5e-83b2-cda6735441cd" width="220"></td>
   </tr>
  </table>
@@ -117,15 +117,15 @@ Some screenshots of the Application:
  <table>
   <tr>
     <td>Time Setting Screen</td>
-    <td>Add Expense Category Screen</td>
     <td>Add Income Category Screen</td>
     <td>Icons Selection Screen</td>
+    <td>Income Analysis Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/328e00ed-e761-4b12-8bd4-e9a2a663de6c" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/b6eee97d-bb50-48db-9fcd-412e5dd46ae9" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/16b5e06a-4c65-48a3-a08d-d08ab55c1da1" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/97b083a7-47ed-4ed7-ac7b-d1af0752b2fb" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/cab5869d-28a4-4e61-a0da-88d92c33ecb6" width="220"></td>
   </tr>
  </table>
  </p>
