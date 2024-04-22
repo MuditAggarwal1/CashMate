@@ -90,13 +90,13 @@ Some screenshots of the Application:
     <td>App Logo</td>
     <td>Login Screen</td>
     <td>Income Adding Screen</td>
-    <td>Expense Category Screen</td>
+    <td>Expense Adding Screen</td>
   </tr>
   <tr>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/a42387ec-b1ae-46bc-b6b6-296df691b2d2" width="220"></td>
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/e9d11a81-3d91-41a3-a8a2-4139b391cca0" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/20116329-85c2-4ae6-a093-5df3b70c5d47" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d5281e6d-acc6-4f5e-83b2-cda6735441cd" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/23de2a15-7b0d-46e0-8287-4b6f3158acbb" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/461c80e2-2111-4da9-9cdd-4ab0379a3223" width="220"></td>
   </tr>
  </table>
  <table>
@@ -104,28 +104,28 @@ Some screenshots of the Application:
     <td>Income Category Screen</td>
     <td>Expense Category Screen</td>
     <td>Time Setting Screen</td>
-    <td>Expense Category Screen</td>
+    <td>Add Income Category Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/20116329-85c2-4ae6-a093-5df3b70c5d47" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d5281e6d-acc6-4f5e-83b2-cda6735441cd" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/328e00ed-e761-4b12-8bd4-e9a2a663de6c" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d5281e6d-acc6-4f5e-83b2-cda6735441cd" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/ccd61e48-be23-47d0-979e-9b327359053a" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/9db0511c-dc10-4c44-bc12-ec69f95a6ffb" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/5889abe7-8a81-469d-87d2-351220f642af" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/dfd82508-512e-4a0a-8fcf-632304e72b47" width="220"></td>
   </tr>
  </table>
  </table>
  <table>
   <tr>
-    <td>Time Setting Screen</td>
-    <td>Add Income Category Screen</td>
     <td>Icons Selection Screen</td>
+    <td>Expense Analysis Screen</td>
     <td>Income Analysis Screen</td>
+    <td>Calender Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/328e00ed-e761-4b12-8bd4-e9a2a663de6c" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/16b5e06a-4c65-48a3-a08d-d08ab55c1da1" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/97b083a7-47ed-4ed7-ac7b-d1af0752b2fb" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/cab5869d-28a4-4e61-a0da-88d92c33ecb6" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/7305cb7f-46d6-4324-9fe9-feae0dd07890" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/a74bb872-8b91-409b-bd52-c973ed3c465b" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/a8e4dd6e-7bd8-4788-8c41-4c4239fcdfef" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d615f12b-62c1-4007-b223-b69ffbc8872e" width="220"></td>
   </tr>
  </table>
  </p>
