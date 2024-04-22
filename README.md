@@ -74,6 +74,10 @@ When adding income or expenses, users can include descriptions to provide contex
 Users have the ability to delete any transaction they’ve recorded. Whether it’s an incorrect entry or a duplicate, CashMate allows users to remove unwanted records.
 This feature ensures data accuracy and keeps the transaction history clean.
 
+**Custom Categories**:
+
+CashMate empowers users to add or edit categories for both income and expenses. If the default categories don’t quite fit their needs, they can create custom ones.
+When creating a new category, users can choose from a variety of icons to visually represent it. Whether it’s a specific project, a hobby, or a unique expense, users can tailor CashMate to their financial lifestyle.
 
 
 In summary, **CashMate** is a comprehensive money management app that combines security, customization, and insightful features. Whether you’re tracking daily expenses or planning for the future, CashMate has you covered!
@@ -83,30 +87,30 @@ Some screenshots of the Application:
 <p align="center" float="left">
 <table>
   <tr>
-    <td>Home Screen</td>
+    <td>App Logo</td>
     <td>Register Screen</td>
     <td>Login Screen</td>
-    <td>Dashboard Screen</td>
+    <td>Password Recover Screen</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/MuditAggarwal1/FeedZie/assets/135834440/08c13472-c5b4-4e86-aabc-5e027d8d77c6" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/a1ef6997-b43a-4826-85b1-5e9077851737" width="220"></td>
-    <td><img src="https://github.com/MuditAggarwal1/FEEDZIE/assets/135834440/f753ffcd-5517-42e3-8390-510a4c44ab2d" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682382-a0a2671d-6160-44d5-a4fb-dab764103ca4.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/a42387ec-b1ae-46bc-b6b6-296df691b2d2" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/b73c209f-845b-444b-b59c-54a07920d3b5" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/e9d11a81-3d91-41a3-a8a2-4139b391cca0" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/80225dd8-4317-4fc8-9295-84132222c783" width="220"></td>
   </tr>
  </table>
  <table>
   <tr>
-    <td>Donate Screen</td>
-    <td>Receive Screen</td>
-    <td>Food Map Screen</td>
-    <td>History Screen</td>
+    <td>Income Adding Screen</td>
+    <td>Expense Adding Screen</td>
+    <td>Income Category Screen</td>
+    <td>Expense Category Screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682397-00db142f-8817-47d5-b23d-e67aef63ea02.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147682399-7f6ba8ba-0805-4797-9af1-8994707c9adb.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683214-c1795ace-d312-40f2-9b1f-72a855ea27bd.png" width="220"></td>
-    <td><img src="https://user-images.githubusercontent.com/54005333/147683209-1f154899-b993-43e2-8536-d8fceb61cbe5.png" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/c6e8edc5-5300-4f25-a566-d3251aa0c975" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/40d0e9ad-ca74-4fb8-afe7-0473d15020c2" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/20116329-85c2-4ae6-a093-5df3b70c5d47" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d5281e6d-acc6-4f5e-83b2-cda6735441cd" width="220"></td>
   </tr>
  </table>
  </table>
