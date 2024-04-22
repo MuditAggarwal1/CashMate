@@ -113,7 +113,6 @@ Some screenshots of the Application:
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/dfd82508-512e-4a0a-8fcf-632304e72b47" width="220"></td>
   </tr>
  </table>
- </table>
  <table>
   <tr>
     <td>Icons Selection Screen</td>
@@ -128,6 +127,22 @@ Some screenshots of the Application:
     <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/d615f12b-62c1-4007-b223-b69ffbc8872e" width="220"></td>
   </tr>
  </table>
+  <table>
+  <tr>
+    <td>Other Screen</td>
+    <td>Language Selection Screen</td>
+    <td>Currency Selection Screen</td>
+    <td>Date Format Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/5bb009b3-e317-45d9-b096-2c9e1c3c777f" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/f7224c6f-4b55-4980-bd66-f148249bf6bc" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/c0a207e5-6b70-441f-a5cd-18d90269a17b" width="220"></td>
+    <td><img src="https://github.com/MuditAggarwal1/CashMate/assets/135834440/edf8ebb9-3296-4c03-bf87-cef197be8a19" width="220"></td>
+  </tr>
+ </table>
+
+ 
  </p>
  APP APK LINK  (https://drive.google.com/file/d/1hseSQ0lszpN-kqgFnsOdistNthQy1EXd/view?usp=drive_link)
  
