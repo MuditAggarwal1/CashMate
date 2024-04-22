@@ -130,8 +130,8 @@ Some screenshots of the Application:
   <table>
   <tr>
     <td>Other Screen</td>
-    <td>Language Selection Screen</td>
-    <td>Currency Selection Screen</td>
+    <td>Language Screen</td>
+    <td>Currency Screen</td>
     <td>Date Format Screen</td>
   </tr>
   <tr>
